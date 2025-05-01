@@ -3,7 +3,7 @@
 ### Projeto: Limpeza de Dados de Vinhos Tintos 🍇
 
 **Objetivo:**  
-Este projeto tem como propósito praticar técnicas fundamentais de *Data Cleaning* (limpeza de dados) e *Data Preprocessing* (pré-processamento de dados) utilizando um dataset de vinhos tintos.
+Este projeto tem como propósito praticar técnicas fundamentais de *Data Cleaning* (limpeza de dados) utilizando um dataset de vinhos tintos.
 
 ### 📌 Etapas realizadas:
 1. **Verificação de valores nulos:** Nenhum valor nulo encontrado (`df.isnull().sum()`).
@@ -26,7 +26,7 @@ Este projeto tem como propósito praticar técnicas fundamentais de *Data Cleani
 ### Project: Red Wine Data Cleaning 🍇
 
 **Purpose:**  
-This project aims to practice key techniques in *Data Cleaning* and *Data Preprocessing* using a red wine dataset.
+This project aims to practice key techniques in *Data Cleaning* using a red wine dataset.
 
 ### 📌 Steps completed:
 1. **Null value check:** No missing values found (`df.isnull().sum()`).
